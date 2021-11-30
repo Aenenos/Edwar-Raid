@@ -7,11 +7,16 @@ Tools Français pour raid un server discord facilement
 
 
 **Pour lancer le tools installe** :
+
 Python : https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe
 
 
-PiP : ouvre un cmd execute cette commande curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-et ensuite ça : python get-pip.py
+PiP : ouvre un cmd execute cette commande: 
+                           
+    curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+    Puis : python get-pip.py
+
+
 Le tools est pret maintenant tu n'a plus qu'a le lancer et te faire plaisir 
 **Je ne suis pas responsable de vos acte se projet a pour but educatif**
 
