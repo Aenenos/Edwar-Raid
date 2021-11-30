@@ -6,5 +6,5 @@ Tools Français pour raid un server discord facilement
 
 
 
-**Pour lancer le tools installer python et lancer le fichier startup.bat
+**Pour lancer le tools installer python et lancer le fichier startup.bat**
 
